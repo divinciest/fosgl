@@ -1,0 +1,72 @@
+<Folder name="Root" >
+	<Folder name="f1">
+		
+		<Folder name="f9">
+		
+		</Folder>
+		<Folder name="f3">
+			<Folder name="f5">
+			
+			</Folder>
+		</Folder>
+	</Folder>
+	<Folder name="f$(counter)">
+		
+		<Folder name="f9">
+		
+		</Folder>
+		<Folder name="f3">
+			<Folder name="f5">
+			
+			</Folder>
+		</Folder>
+	</Folder>
+	<Folder name="f$(counter)">
+		
+		<Folder name="f9">
+		
+		</Folder>
+		<Folder name="f3">
+			<Folder name="f5">
+			
+			</Folder>
+		</Folder>
+	</Folder>
+	<Folder name="f$(counter)">
+		
+		<Folder name="f9">
+		
+		</Folder>
+		<Folder name="f3">
+			<Folder name="f5">
+			
+			</Folder>
+		</Folder>
+	</Folder>
+    <Variable name="include_path" value="$(this)" />
+   <File name="readme.txt"  >
+    $(include_path)
+   </File>
+   <Script>
+   p = Path.new("c:/test___");
+   Path.MakeDir(p);
+   variables:SetVariable('name','dhia');
+   </Script>
+   <Script>
+   print('$(n)');
+   print('$(output)');
+   </Script>
+   <If expression="'$(name)'=='dia'">
+   
+   <Folder name="under root if" />
+   <Script>
+     print('name is dhia');
+   </Script>
+   </If>
+   <Else>
+   <Folder name="~attribute =  'sdfsd';" />
+     <Script>
+     print('name is not dhia'); 
+	 </Script>
+   </Else>
+</Folder>

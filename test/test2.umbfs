@@ -1,0 +1,8 @@
+<Folder name="Root">
+  <Variable name="var" value="0" />
+ <While expression="$(var)<0">
+  <Folder name="$(var)">
+  </Folder>
+  <Variable name="var" value="~attribute=tostring($(var)+1)" />
+ </While>
+</Folder>

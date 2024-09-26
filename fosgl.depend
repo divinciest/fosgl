@@ -1,0 +1,3624 @@
+# depslib dependency file v1.0
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1346453812 c:\users\umbrella dev\desktop\fosgl\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1346453812 c:\users\umbrella dev\desktop\fosgl\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1520169802 source:c:\users\umbrella dev\desktop\fosgl\main.cpp
+	<iostream>
+	<TinyXml/tinyxml.h>
+	<string>
+	<stdio.h>
+	<io.h>
+	<Path/path.h>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<Lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<stdio.h>
+	<algorithm>
+	<kaguya/kaguya.hpp>
+	<Helpers/Helpers.hpp>
+	<map>
+	<vector>
+
+1520016377 source:c:\users\umbrella dev\desktop\fosgl\helpers\helpers.cpp
+	<Helpers/Helpers.hpp>
+
+1520016356 c:\users\umbrella dev\desktop\fosgl\helpers\helpers.hpp
+	<string>
+
+1520169570 source:c:\users\umbrella dev\desktop\fosgl\path\path.cpp
+	"path.h"
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<unistd.h>
+	<dirent.h>
+	<assert.h>
+	<fstream>
+	<stdexcept>
+	<Helpers/Helpers.hpp>
+	"path.h"
+
+1520169543 c:\users\umbrella dev\desktop\fosgl\path\path.h
+	<vector>
+	<string>
+
+1482421880 c:\users\umbrella dev\desktop\fosgl\liblua\\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\umbrella dev\desktop\fosgl\liblua\\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1481036072 c:\users\umbrella dev\desktop\fosgl\liblua\\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1484241266 c:\users\umbrella dev\desktop\fosgl\liblua\\lualib.h
+	"lua.h"
+
+1520016377 source:c:\users\umbrella dev\desktop\fosgl\backup\1\helpers\helpers.cpp
+	<Helpers/Helpers.hpp>
+
+1520016301 source:c:\users\umbrella dev\desktop\fosgl\backup\1\path\path.cpp
+	"path.h"
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<unistd.h>
+	<dirent.h>
+	<assert.h>
+	<fstream>
+	<stdexcept>
+	<Helpers/Helpers.hpp>
+	"path.h"
+
+1520016290 c:\users\umbrella dev\desktop\fosgl\backup\1\path\path.h
+	<vector>
+	<string>
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1346453812 c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1346453812 c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1346461012 source:c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1504189214 source:c:\users\umbrella dev\desktop\fosgl\backup\1\tinyxml\xmltest.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<crtdbg.h>
+	"tinyxml.h"
+
+1456756034 source:c:\users\umbrella dev\desktop\fosgl\liblua\lapi.c
+	"lprefix.h"
+	<stdarg.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+
+1419872054 c:\users\umbrella dev\desktop\fosgl\liblua\lprefix.h
+
+1482421880 c:\users\umbrella dev\desktop\fosgl\liblua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\umbrella dev\desktop\fosgl\liblua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1425671390 c:\users\umbrella dev\desktop\fosgl\liblua\lapi.h
+	"llimits.h"
+	"lstate.h"
+
+1447960582 c:\users\umbrella dev\desktop\fosgl\liblua\llimits.h
+	<limits.h>
+	<stddef.h>
+	"lua.h"
+
+1482412130 c:\users\umbrella dev\desktop\fosgl\liblua\lstate.h
+	"lua.h"
+	"lobject.h"
+	"ltm.h"
+	"lzio.h"
+	<signal.h>
+
+1470073884 c:\users\umbrella dev\desktop\fosgl\liblua\lobject.h
+	<stdarg.h>
+	"llimits.h"
+	"lua.h"
+
+1456514416 c:\users\umbrella dev\desktop\fosgl\liblua\ltm.h
+	"lobject.h"
+
+1441719666 c:\users\umbrella dev\desktop\fosgl\liblua\lzio.h
+	"lua.h"
+	"lmem.h"
+
+1419009974 c:\users\umbrella dev\desktop\fosgl\liblua\lmem.h
+	<stddef.h>
+	"llimits.h"
+	"lua.h"
+
+1432309556 c:\users\umbrella dev\desktop\fosgl\liblua\ldebug.h
+	"lstate.h"
+
+1450702934 c:\users\umbrella dev\desktop\fosgl\liblua\ldo.h
+	"lobject.h"
+	"lstate.h"
+	"lzio.h"
+
+1421164152 c:\users\umbrella dev\desktop\fosgl\liblua\lfunc.h
+	"lobject.h"
+
+1450702934 c:\users\umbrella dev\desktop\fosgl\liblua\lgc.h
+	"lobject.h"
+	"lstate.h"
+
+1446564962 c:\users\umbrella dev\desktop\fosgl\liblua\lstring.h
+	"lgc.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 c:\users\umbrella dev\desktop\fosgl\liblua\ltable.h
+	"lobject.h"
+
+1441719666 c:\users\umbrella dev\desktop\fosgl\liblua\lundump.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1482412130 c:\users\umbrella dev\desktop\fosgl\liblua\lvm.h
+	"ldo.h"
+	"lobject.h"
+	"ltm.h"
+
+1520001332 source:c:\users\umbrella dev\desktop\fosgl\liblua\lauxlib.c
+	"lprefix.h"
+	<errno.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	<sys/wait.h>
+
+1481036072 c:\users\umbrella dev\desktop\fosgl\liblua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1473095194 source:c:\users\umbrella dev\desktop\fosgl\liblua\lbaselib.c
+	"lprefix.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1484241266 c:\users\umbrella dev\desktop\fosgl\liblua\lualib.h
+	"lua.h"
+
+1520063837 source:c:\users\umbrella dev\desktop\fosgl\backup\1\main.cpp
+	<iostream>
+	<TinyXml/tinyxml.h>
+	<string>
+	<stdio.h>
+	<io.h>
+	<Path/path.h>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<map>
+	<vector>
+
+1447268890 source:c:\users\umbrella dev\desktop\fosgl\liblua\lbitlib.c
+	"lprefix.h"
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lcode.c
+	"lprefix.h"
+	<math.h>
+	<stdlib.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1452010958 c:\users\umbrella dev\desktop\fosgl\liblua\lcode.h
+	"llex.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+
+1462190532 c:\users\umbrella dev\desktop\fosgl\liblua\llex.h
+	"lobject.h"
+	"lzio.h"
+
+1468941142 c:\users\umbrella dev\desktop\fosgl\liblua\lopcodes.h
+	"llimits.h"
+
+1451499374 c:\users\umbrella dev\desktop\fosgl\liblua\lparser.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1460395196 source:c:\users\umbrella dev\desktop\fosgl\liblua\lcorolib.c
+	"lprefix.h"
+	<stdlib.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1414955944 source:c:\users\umbrella dev\desktop\fosgl\liblua\lctype.c
+	"lprefix.h"
+	"lctype.h"
+	<limits.h>
+
+1310727030 c:\users\umbrella dev\desktop\fosgl\liblua\lctype.h
+	"lua.h"
+	<limits.h>
+	"llimits.h"
+	<ctype.h>
+
+1448278184 source:c:\users\umbrella dev\desktop\fosgl\liblua\ldblib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1476873130 source:c:\users\umbrella dev\desktop\fosgl\liblua\ldebug.c
+	"lprefix.h"
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1481644342 source:c:\users\umbrella dev\desktop\fosgl\liblua\ldo.c
+	"lprefix.h"
+	<setjmp.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+	"lzio.h"
+
+1444312430 source:c:\users\umbrella dev\desktop\fosgl\liblua\ldump.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lundump.h"
+
+1414955944 source:c:\users\umbrella dev\desktop\fosgl\liblua\lfunc.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lgc.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1520001495 source:c:\users\umbrella dev\desktop\fosgl\liblua\linit.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	<luafilesystem/lfs.h>
+
+1513249938 c:\users\umbrella dev\desktop\fosgl\liblua\\luafilesystem\lfs.h
+
+1482259020 source:c:\users\umbrella dev\desktop\fosgl\liblua\liolib.c
+	"lprefix.h"
+	<ctype.h>
+	<errno.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<sys/types.h>
+
+1462190532 source:c:\users\umbrella dev\desktop\fosgl\liblua\llex.c
+	"lprefix.h"
+	<locale.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lobject.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lzio.h"
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lmathlib.c
+	"lprefix.h"
+	<stdlib.h>
+	<math.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1425671154 source:c:\users\umbrella dev\desktop\fosgl\liblua\lmem.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1484241266 source:c:\users\umbrella dev\desktop\fosgl\liblua\loadlib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<dlfcn.h>
+	<windows.h>
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lobject.c
+	"lprefix.h"
+	<locale.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"lvm.h"
+
+1420465714 source:c:\users\umbrella dev\desktop\fosgl\liblua\lopcodes.c
+	"lprefix.h"
+	<stddef.h>
+	"lopcodes.h"
+
+1468857538 source:c:\users\umbrella dev\desktop\fosgl\liblua\loslib.c
+	"lprefix.h"
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<unistd.h>
+
+1470073884 source:c:\users\umbrella dev\desktop\fosgl\liblua\lparser.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+
+1447417012 source:c:\users\umbrella dev\desktop\fosgl\liblua\lstate.c
+	"lprefix.h"
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	<time.h>
+
+1448278372 source:c:\users\umbrella dev\desktop\fosgl\liblua\lstring.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lstrlib.c
+	"lprefix.h"
+	<ctype.h>
+	<float.h>
+	<limits.h>
+	<locale.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<math.h>
+
+1478522316 source:c:\users\umbrella dev\desktop\fosgl\liblua\ltable.c
+	"lprefix.h"
+	<math.h>
+	<limits.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1456429314 source:c:\users\umbrella dev\desktop\fosgl\liblua\ltablib.c
+	"lprefix.h"
+	<limits.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<time.h>
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\ltm.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1513249938 source:c:\users\umbrella dev\desktop\fosgl\liblua\luafilesystem\lfs.c
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sys/stat.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<sys/locking.h>
+	<utime.h>
+	<sys/utime.h>
+	<fcntl.h>
+	<unistd.h>
+	<dirent.h>
+	<fcntl.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/param.h>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"lfs.h"
+
+1513249938 c:\users\umbrella dev\desktop\fosgl\liblua\luafilesystem\lfs.h
+
+1446480570 source:c:\users\umbrella dev\desktop\fosgl\liblua\lundump.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstring.h"
+	"lundump.h"
+	"lzio.h"
+
+1482412130 source:c:\users\umbrella dev\desktop\fosgl\liblua\lutf8lib.c
+	"lprefix.h"
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1454702354 source:c:\users\umbrella dev\desktop\fosgl\liblua\lvm.c
+	"lprefix.h"
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1441719666 source:c:\users\umbrella dev\desktop\fosgl\liblua\lzio.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"llimits.h"
+	"lmem.h"
+	"lstate.h"
+	"lzio.h"
+
+1519294827 c:\users\umbrella dev\desktop\fosgl\kaguya\kaguya.hpp
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/state.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+	"kaguya/ref_tuple.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\config.hpp
+	<string>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<functional>
+	<tuple>
+	<memory>
+	<utility>
+	<type_traits>
+	<initializer_list>
+	<array>
+	<boost/function.hpp>
+	<boost/tuple/tuple.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/make_shared.hpp>
+	<boost/type_traits.hpp>
+	<boost/static_assert.hpp>
+	<boost/utility/result_of.hpp>
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\lua_ref.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	<istream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\error_handler.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/type.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\type.hpp
+	<string>
+	<cstring>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/object.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/push_tuple.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\optional.hpp
+	<cassert>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\traits.hpp
+	<string>
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\object.hpp
+	<string>
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/exception.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\utility.hpp
+	<iostream>
+	<cxxabi.h>
+	"kaguya/config.hpp"
+	"kaguya/compatibility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/preprocess.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/utility_cxx11.hpp"
+	"kaguya/utility_cxx03.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\compatibility.hpp
+	"kaguya/config.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\preprocess.hpp
+	"kaguya/preprocess_repeate.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\preprocess_repeate.hpp
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\exception.hpp
+	<exception>
+	<stdexcept>
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\utility_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\utility_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\push_tuple.hpp
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\detail\lua_ref_impl.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\detail\lua_variant_def.hpp
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\detail\lua_function_def.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\detail\lua_table_def.hpp
+	<vector>
+	<map>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\native_function.hpp
+	<string>
+	<vector>
+	<iterator>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/type.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function_cxx11.hpp"
+	"kaguya/native_function_cxx03.hpp"
+	"kaguya/function_tuple_def.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\native_function_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\native_function_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\function_tuple_def.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/preprocess.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\state.hpp
+	<string>
+	<iostream>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/metatable.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\metatable.hpp
+	<string>
+	<vector>
+	<map>
+	<typeinfo>
+	"kaguya/config.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\push_any.hpp
+	<memory>
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\lua_ref_function.hpp
+	<vector>
+	<map>
+	<cassert>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\lua_ref_table.hpp
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\umbrella dev\desktop\fosgl\kaguya\ref_tuple.hpp
+	"kaguya/config.hpp"
+
+1504189214 source:c:\users\umbrella dev\desktop\fosgl\tinyxml\xmltest.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<crtdbg.h>
+	"tinyxml.h"
+
+1346464612 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1346457412 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1520238508 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1520238508 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1520238508 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1520016377 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\helpers\helpers.cpp
+	<Helpers/Helpers.hpp>
+
+1520239452 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\helpers\helpers.hpp
+	<string>
+	<iostream>
+	<sstream>
+
+1456756034 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lapi.c
+	"lprefix.h"
+	<stdarg.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+
+1419872054 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lprefix.h
+
+1482421880 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1425671390 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lapi.h
+	"llimits.h"
+	"lstate.h"
+
+1447960582 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\llimits.h
+	<limits.h>
+	<stddef.h>
+	"lua.h"
+
+1482412130 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lstate.h
+	"lua.h"
+	"lobject.h"
+	"ltm.h"
+	"lzio.h"
+	<signal.h>
+
+1470081084 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lobject.h
+	<stdarg.h>
+	"llimits.h"
+	"lua.h"
+
+1456514416 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ltm.h
+	"lobject.h"
+
+1441726866 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lzio.h
+	"lua.h"
+	"lmem.h"
+
+1419009974 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lmem.h
+	<stddef.h>
+	"llimits.h"
+	"lua.h"
+
+1432316756 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldebug.h
+	"lstate.h"
+
+1450702934 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldo.h
+	"lobject.h"
+	"lstate.h"
+	"lzio.h"
+
+1421164152 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lfunc.h
+	"lobject.h"
+
+1450702934 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lgc.h
+	"lobject.h"
+	"lstate.h"
+
+1446564962 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lstring.h
+	"lgc.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ltable.h
+	"lobject.h"
+
+1441726866 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lundump.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1482412130 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lvm.h
+	"ldo.h"
+	"lobject.h"
+	"ltm.h"
+
+1520001332 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lauxlib.c
+	"lprefix.h"
+	<errno.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	<sys/wait.h>
+
+1481036072 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1473102394 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lbaselib.c
+	"lprefix.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1484241266 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lualib.h
+	"lua.h"
+
+1447268890 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lbitlib.c
+	"lprefix.h"
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lcode.c
+	"lprefix.h"
+	<math.h>
+	<stdlib.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1452010958 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lcode.h
+	"llex.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+
+1462197732 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\llex.h
+	"lobject.h"
+	"lzio.h"
+
+1468948342 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lopcodes.h
+	"llimits.h"
+
+1451499374 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lparser.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1460402396 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lcorolib.c
+	"lprefix.h"
+	<stdlib.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1414955944 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lctype.c
+	"lprefix.h"
+	"lctype.h"
+	<limits.h>
+
+1310734230 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lctype.h
+	"lua.h"
+	<limits.h>
+	"llimits.h"
+	<ctype.h>
+
+1448278184 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldblib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1476880330 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldebug.c
+	"lprefix.h"
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1481644342 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldo.c
+	"lprefix.h"
+	<setjmp.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+	"lzio.h"
+
+1444319630 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ldump.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lundump.h"
+
+1414955944 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lfunc.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lgc.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1520001495 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\linit.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	<luafilesystem/lfs.h>
+
+1513249938 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\\luafilesystem\lfs.h
+
+1482259020 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\liolib.c
+	"lprefix.h"
+	<ctype.h>
+	<errno.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<sys/types.h>
+
+1462197732 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\llex.c
+	"lprefix.h"
+	<locale.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lobject.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lzio.h"
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lmathlib.c
+	"lprefix.h"
+	<stdlib.h>
+	<math.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1425671154 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lmem.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1484241266 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\loadlib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<dlfcn.h>
+	<windows.h>
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lobject.c
+	"lprefix.h"
+	<locale.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"lvm.h"
+
+1420465714 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lopcodes.c
+	"lprefix.h"
+	<stddef.h>
+	"lopcodes.h"
+
+1468864738 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\loslib.c
+	"lprefix.h"
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<unistd.h>
+
+1470081084 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lparser.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+
+1447417012 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lstate.c
+	"lprefix.h"
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	<time.h>
+
+1448278372 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lstring.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lstrlib.c
+	"lprefix.h"
+	<ctype.h>
+	<float.h>
+	<limits.h>
+	<locale.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<math.h>
+
+1478522316 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ltable.c
+	"lprefix.h"
+	<math.h>
+	<limits.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1456429314 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ltablib.c
+	"lprefix.h"
+	<limits.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<time.h>
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\ltm.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1513249938 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\luafilesystem\lfs.c
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sys/stat.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<sys/locking.h>
+	<utime.h>
+	<sys/utime.h>
+	<fcntl.h>
+	<unistd.h>
+	<dirent.h>
+	<fcntl.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/param.h>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"lfs.h"
+
+1482421880 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1481036072 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1484241266 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\\lualib.h
+	"lua.h"
+
+1513249938 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\luafilesystem\lfs.h
+
+1446480570 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lundump.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstring.h"
+	"lundump.h"
+	"lzio.h"
+
+1482412130 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lutf8lib.c
+	"lprefix.h"
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1454702354 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lvm.c
+	"lprefix.h"
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1441726866 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\liblua\lzio.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"llimits.h"
+	"lmem.h"
+	"lstate.h"
+	"lzio.h"
+
+1520238955 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\main.cpp
+	<iostream>
+	<TinyXml/tinyxml.h>
+	<string>
+	<stdio.h>
+	<io.h>
+	<Path/path.h>
+	<fstream>
+	<stdlib.h>
+	<Lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<stdio.h>
+	<algorithm>
+	<kaguya/kaguya.hpp>
+	<Helpers/Helpers.hpp>
+	<fosgl.hpp>
+	<map>
+	<vector>
+
+1520244189 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\path\path.h
+	<vector>
+	<string>
+
+1519294827 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\kaguya.hpp
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/state.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+	"kaguya/ref_tuple.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\config.hpp
+	<string>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<functional>
+	<tuple>
+	<memory>
+	<utility>
+	<type_traits>
+	<initializer_list>
+	<array>
+	<boost/function.hpp>
+	<boost/tuple/tuple.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/make_shared.hpp>
+	<boost/type_traits.hpp>
+	<boost/static_assert.hpp>
+	<boost/utility/result_of.hpp>
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\lua_ref.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	<istream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\error_handler.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/type.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\type.hpp
+	<string>
+	<cstring>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/object.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/push_tuple.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\optional.hpp
+	<cassert>
+	"kaguya/config.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\traits.hpp
+	<string>
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\object.hpp
+	<string>
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/exception.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\utility.hpp
+	<iostream>
+	<cxxabi.h>
+	"kaguya/config.hpp"
+	"kaguya/compatibility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/preprocess.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/utility_cxx11.hpp"
+	"kaguya/utility_cxx03.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\compatibility.hpp
+	"kaguya/config.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\preprocess.hpp
+	"kaguya/preprocess_repeate.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\preprocess_repeate.hpp
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\exception.hpp
+	<exception>
+	<stdexcept>
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\utility_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\utility_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\push_tuple.hpp
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\detail\lua_ref_impl.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\detail\lua_variant_def.hpp
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\detail\lua_function_def.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\detail\lua_table_def.hpp
+	<vector>
+	<map>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\native_function.hpp
+	<string>
+	<vector>
+	<iterator>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/type.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function_cxx11.hpp"
+	"kaguya/native_function_cxx03.hpp"
+	"kaguya/function_tuple_def.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\native_function_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\native_function_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\function_tuple_def.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/preprocess.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\state.hpp
+	<string>
+	<iostream>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/metatable.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\metatable.hpp
+	<string>
+	<vector>
+	<map>
+	<typeinfo>
+	"kaguya/config.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\push_any.hpp
+	<memory>
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/utility.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\lua_ref_function.hpp
+	<vector>
+	<map>
+	<cassert>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\lua_ref_table.hpp
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507655542 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\kaguya\ref_tuple.hpp
+	"kaguya/config.hpp"
+
+1520244303 source:c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\path\path.cpp
+	"path.h"
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<unistd.h>
+	<dirent.h>
+	<assert.h>
+	<fstream>
+	<stdexcept>
+	<Helpers/Helpers.hpp>
+	"path.h"
+
+1520244358 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\fosgl.hpp
+	<VariablesExpander.hpp>
+
+1520244492 c:\users\gamer\desktop\umbrella\workspace\buildsystem\fosgl\variablesexpander.hpp
+	<Helpers/Helpers.hpp>
+
+1456756034 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lapi.c
+	"lprefix.h"
+	<stdarg.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+
+1419872054 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lprefix.h
+
+1482421880 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1425671390 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lapi.h
+	"llimits.h"
+	"lstate.h"
+
+1447960582 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\llimits.h
+	<limits.h>
+	<stddef.h>
+	"lua.h"
+
+1482412130 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lstate.h
+	"lua.h"
+	"lobject.h"
+	"ltm.h"
+	"lzio.h"
+	<signal.h>
+
+1470077484 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lobject.h
+	<stdarg.h>
+	"llimits.h"
+	"lua.h"
+
+1456514416 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ltm.h
+	"lobject.h"
+
+1441723266 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lzio.h
+	"lua.h"
+	"lmem.h"
+
+1419009974 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lmem.h
+	<stddef.h>
+	"llimits.h"
+	"lua.h"
+
+1432313156 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldebug.h
+	"lstate.h"
+
+1450702934 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldo.h
+	"lobject.h"
+	"lstate.h"
+	"lzio.h"
+
+1421164152 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lfunc.h
+	"lobject.h"
+
+1450702934 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lgc.h
+	"lobject.h"
+	"lstate.h"
+
+1446564962 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lstring.h
+	"lgc.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ltable.h
+	"lobject.h"
+
+1441723266 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lundump.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1482412130 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lvm.h
+	"ldo.h"
+	"lobject.h"
+	"ltm.h"
+
+1520001332 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lauxlib.c
+	"lprefix.h"
+	<errno.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	<sys/wait.h>
+
+1481036072 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1473098794 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lbaselib.c
+	"lprefix.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1484241266 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lualib.h
+	"lua.h"
+
+1447268890 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lbitlib.c
+	"lprefix.h"
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lcode.c
+	"lprefix.h"
+	<math.h>
+	<stdlib.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1452010958 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lcode.h
+	"llex.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+
+1462194132 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\llex.h
+	"lobject.h"
+	"lzio.h"
+
+1468944742 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lopcodes.h
+	"llimits.h"
+
+1451499374 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lparser.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1460398796 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lcorolib.c
+	"lprefix.h"
+	<stdlib.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1414955944 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lctype.c
+	"lprefix.h"
+	"lctype.h"
+	<limits.h>
+
+1310730630 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lctype.h
+	"lua.h"
+	<limits.h>
+	"llimits.h"
+	<ctype.h>
+
+1448278184 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldblib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1476876730 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldebug.c
+	"lprefix.h"
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1481644342 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldo.c
+	"lprefix.h"
+	<setjmp.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+	"lzio.h"
+
+1444316030 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ldump.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lundump.h"
+
+1414955944 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lfunc.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lgc.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1520001495 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\linit.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	<luafilesystem/lfs.h>
+
+1513249938 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\\luafilesystem\lfs.h
+
+1482259020 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\liolib.c
+	"lprefix.h"
+	<ctype.h>
+	<errno.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<sys/types.h>
+
+1462194132 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\llex.c
+	"lprefix.h"
+	<locale.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lobject.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lzio.h"
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lmathlib.c
+	"lprefix.h"
+	<stdlib.h>
+	<math.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1425671154 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lmem.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1484241266 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\loadlib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<dlfcn.h>
+	<windows.h>
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lobject.c
+	"lprefix.h"
+	<locale.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"lvm.h"
+
+1420465714 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lopcodes.c
+	"lprefix.h"
+	<stddef.h>
+	"lopcodes.h"
+
+1468861138 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\loslib.c
+	"lprefix.h"
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<unistd.h>
+
+1470077484 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lparser.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+
+1447417012 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lstate.c
+	"lprefix.h"
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	<time.h>
+
+1448278372 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lstring.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lstrlib.c
+	"lprefix.h"
+	<ctype.h>
+	<float.h>
+	<limits.h>
+	<locale.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<math.h>
+
+1478522316 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ltable.c
+	"lprefix.h"
+	<math.h>
+	<limits.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1456429314 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ltablib.c
+	"lprefix.h"
+	<limits.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<time.h>
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\ltm.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1513249938 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\luafilesystem\lfs.c
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sys/stat.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<sys/locking.h>
+	<utime.h>
+	<sys/utime.h>
+	<fcntl.h>
+	<unistd.h>
+	<dirent.h>
+	<fcntl.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/param.h>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"lfs.h"
+
+1482421880 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1481036072 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1484241266 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\\lualib.h
+	"lua.h"
+
+1513249938 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\luafilesystem\lfs.h
+
+1446480570 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lundump.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstring.h"
+	"lundump.h"
+	"lzio.h"
+
+1482412130 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lutf8lib.c
+	"lprefix.h"
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1454702354 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lvm.c
+	"lprefix.h"
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1441723266 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\liblua\lzio.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"llimits.h"
+	"lmem.h"
+	"lstate.h"
+	"lzio.h"
+
+1346461012 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1346453812 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1520238508 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1520238508 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1520238508 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1727288296 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\path\path.cpp
+	"path.h"
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<unistd.h>
+	<dirent.h>
+	<assert.h>
+	<fstream>
+	<stdexcept>
+	<Helpers/Helpers.hpp>
+	"path.h"
+	<filesystem>
+
+1520347966 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\path\path.h
+	<vector>
+	<string>
+
+1727289947 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\helpers\helpers.hpp
+	<string>
+	<iostream>
+	<sstream>
+
+1727289781 source:c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\main.cpp
+	<iostream>
+	<TinyXml/tinyxml.h>
+	<string>
+	<stdio.h>
+	<io.h>
+	<Path/path.h>
+	<fstream>
+	<stdlib.h>
+	<Lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<stdio.h>
+	<algorithm>
+	<kaguya/kaguya.hpp>
+	<Helpers/Helpers.hpp>
+	<fosgl.hpp>
+	<map>
+	<vector>
+	<memory>
+
+1519294827 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\kaguya.hpp
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/state.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+	"kaguya/ref_tuple.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\config.hpp
+	<string>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<functional>
+	<tuple>
+	<memory>
+	<utility>
+	<type_traits>
+	<initializer_list>
+	<array>
+	<boost/function.hpp>
+	<boost/tuple/tuple.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/make_shared.hpp>
+	<boost/type_traits.hpp>
+	<boost/static_assert.hpp>
+	<boost/utility/result_of.hpp>
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\lua_ref.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	<istream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\error_handler.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/type.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\type.hpp
+	<string>
+	<cstring>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/object.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/push_tuple.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\optional.hpp
+	<cassert>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\traits.hpp
+	<string>
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\object.hpp
+	<string>
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/exception.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\utility.hpp
+	<iostream>
+	<cxxabi.h>
+	"kaguya/config.hpp"
+	"kaguya/compatibility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/preprocess.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/utility_cxx11.hpp"
+	"kaguya/utility_cxx03.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\compatibility.hpp
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\preprocess.hpp
+	"kaguya/preprocess_repeate.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\preprocess_repeate.hpp
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\exception.hpp
+	<exception>
+	<stdexcept>
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\utility_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\utility_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\push_tuple.hpp
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\detail\lua_ref_impl.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\detail\lua_variant_def.hpp
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\detail\lua_function_def.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\detail\lua_table_def.hpp
+	<vector>
+	<map>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\native_function.hpp
+	<string>
+	<vector>
+	<iterator>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/type.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function_cxx11.hpp"
+	"kaguya/native_function_cxx03.hpp"
+	"kaguya/function_tuple_def.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\native_function_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\native_function_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\function_tuple_def.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/preprocess.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\state.hpp
+	<string>
+	<iostream>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/metatable.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\metatable.hpp
+	<string>
+	<vector>
+	<map>
+	<typeinfo>
+	"kaguya/config.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\push_any.hpp
+	<memory>
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\lua_ref_function.hpp
+	<vector>
+	<map>
+	<cassert>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\lua_ref_table.hpp
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\kaguya\ref_tuple.hpp
+	"kaguya/config.hpp"
+
+1727289981 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\fosgl.hpp
+	<VariablesExpander.hpp>
+
+1520415635 c:\users\dhiah\downloads\umbrella_\buildsystem\fosgl\variablesexpander.hpp
+	<Helpers/Helpers.hpp>
+
+1456756034 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lapi.c
+	"lprefix.h"
+	<stdarg.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+
+1419872054 c:\users\dhiah\desktop\repos\fosgl\liblua\lprefix.h
+
+1482421880 c:\users\dhiah\desktop\repos\fosgl\liblua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\dhiah\desktop\repos\fosgl\liblua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1425671390 c:\users\dhiah\desktop\repos\fosgl\liblua\lapi.h
+	"llimits.h"
+	"lstate.h"
+
+1447960582 c:\users\dhiah\desktop\repos\fosgl\liblua\llimits.h
+	<limits.h>
+	<stddef.h>
+	"lua.h"
+
+1482412130 c:\users\dhiah\desktop\repos\fosgl\liblua\lstate.h
+	"lua.h"
+	"lobject.h"
+	"ltm.h"
+	"lzio.h"
+	<signal.h>
+
+1470077484 c:\users\dhiah\desktop\repos\fosgl\liblua\lobject.h
+	<stdarg.h>
+	"llimits.h"
+	"lua.h"
+
+1456514416 c:\users\dhiah\desktop\repos\fosgl\liblua\ltm.h
+	"lobject.h"
+
+1441723266 c:\users\dhiah\desktop\repos\fosgl\liblua\lzio.h
+	"lua.h"
+	"lmem.h"
+
+1419009974 c:\users\dhiah\desktop\repos\fosgl\liblua\lmem.h
+	<stddef.h>
+	"llimits.h"
+	"lua.h"
+
+1432313156 c:\users\dhiah\desktop\repos\fosgl\liblua\ldebug.h
+	"lstate.h"
+
+1450702934 c:\users\dhiah\desktop\repos\fosgl\liblua\ldo.h
+	"lobject.h"
+	"lstate.h"
+	"lzio.h"
+
+1421164152 c:\users\dhiah\desktop\repos\fosgl\liblua\lfunc.h
+	"lobject.h"
+
+1450702934 c:\users\dhiah\desktop\repos\fosgl\liblua\lgc.h
+	"lobject.h"
+	"lstate.h"
+
+1446564962 c:\users\dhiah\desktop\repos\fosgl\liblua\lstring.h
+	"lgc.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 c:\users\dhiah\desktop\repos\fosgl\liblua\ltable.h
+	"lobject.h"
+
+1441723266 c:\users\dhiah\desktop\repos\fosgl\liblua\lundump.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1482412130 c:\users\dhiah\desktop\repos\fosgl\liblua\lvm.h
+	"ldo.h"
+	"lobject.h"
+	"ltm.h"
+
+1520001332 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lauxlib.c
+	"lprefix.h"
+	<errno.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	<sys/wait.h>
+
+1481036072 c:\users\dhiah\desktop\repos\fosgl\liblua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1473098794 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lbaselib.c
+	"lprefix.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1484241266 c:\users\dhiah\desktop\repos\fosgl\liblua\lualib.h
+	"lua.h"
+
+1447268890 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lbitlib.c
+	"lprefix.h"
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lcode.c
+	"lprefix.h"
+	<math.h>
+	<stdlib.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1452010958 c:\users\dhiah\desktop\repos\fosgl\liblua\lcode.h
+	"llex.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+
+1462194132 c:\users\dhiah\desktop\repos\fosgl\liblua\llex.h
+	"lobject.h"
+	"lzio.h"
+
+1468944742 c:\users\dhiah\desktop\repos\fosgl\liblua\lopcodes.h
+	"llimits.h"
+
+1451499374 c:\users\dhiah\desktop\repos\fosgl\liblua\lparser.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1460398796 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lcorolib.c
+	"lprefix.h"
+	<stdlib.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1414955944 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lctype.c
+	"lprefix.h"
+	"lctype.h"
+	<limits.h>
+
+1310730630 c:\users\dhiah\desktop\repos\fosgl\liblua\lctype.h
+	"lua.h"
+	<limits.h>
+	"llimits.h"
+	<ctype.h>
+
+1448278184 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ldblib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1476876730 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ldebug.c
+	"lprefix.h"
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1481644342 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ldo.c
+	"lprefix.h"
+	<setjmp.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+	"lzio.h"
+
+1444316030 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ldump.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lundump.h"
+
+1414955944 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lfunc.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lgc.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1520001495 source:c:\users\dhiah\desktop\repos\fosgl\liblua\linit.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	<luafilesystem/lfs.h>
+
+1513249938 c:\users\dhiah\desktop\repos\fosgl\liblua\\luafilesystem\lfs.h
+
+1482259020 source:c:\users\dhiah\desktop\repos\fosgl\liblua\liolib.c
+	"lprefix.h"
+	<ctype.h>
+	<errno.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<sys/types.h>
+
+1462194132 source:c:\users\dhiah\desktop\repos\fosgl\liblua\llex.c
+	"lprefix.h"
+	<locale.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lobject.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lzio.h"
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lmathlib.c
+	"lprefix.h"
+	<stdlib.h>
+	<math.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1425671154 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lmem.c
+	"lprefix.h"
+	<stddef.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1484241266 source:c:\users\dhiah\desktop\repos\fosgl\liblua\loadlib.c
+	"lprefix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<dlfcn.h>
+	<windows.h>
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lobject.c
+	"lprefix.h"
+	<locale.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"lvm.h"
+
+1420465714 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lopcodes.c
+	"lprefix.h"
+	<stddef.h>
+	"lopcodes.h"
+
+1468861138 source:c:\users\dhiah\desktop\repos\fosgl\liblua\loslib.c
+	"lprefix.h"
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<unistd.h>
+
+1470077484 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lparser.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+
+1447417012 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lstate.c
+	"lprefix.h"
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	<time.h>
+
+1448278372 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lstring.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lstrlib.c
+	"lprefix.h"
+	<ctype.h>
+	<float.h>
+	<limits.h>
+	<locale.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<math.h>
+
+1478522316 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ltable.c
+	"lprefix.h"
+	<math.h>
+	<limits.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1456429314 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ltablib.c
+	"lprefix.h"
+	<limits.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<time.h>
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\ltm.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1513249938 source:c:\users\dhiah\desktop\repos\fosgl\liblua\luafilesystem\lfs.c
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sys/stat.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<sys/locking.h>
+	<utime.h>
+	<sys/utime.h>
+	<fcntl.h>
+	<unistd.h>
+	<dirent.h>
+	<fcntl.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/param.h>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"lfs.h"
+
+1482421880 c:\users\dhiah\desktop\repos\fosgl\liblua\\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\dhiah\desktop\repos\fosgl\liblua\\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1481036072 c:\users\dhiah\desktop\repos\fosgl\liblua\\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1484241266 c:\users\dhiah\desktop\repos\fosgl\liblua\\lualib.h
+	"lua.h"
+
+1513249938 c:\users\dhiah\desktop\repos\fosgl\liblua\luafilesystem\lfs.h
+
+1446480570 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lundump.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstring.h"
+	"lundump.h"
+	"lzio.h"
+
+1482412130 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lutf8lib.c
+	"lprefix.h"
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1454702354 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lvm.c
+	"lprefix.h"
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1441723266 source:c:\users\dhiah\desktop\repos\fosgl\liblua\lzio.c
+	"lprefix.h"
+	<string.h>
+	"lua.h"
+	"llimits.h"
+	"lmem.h"
+	"lstate.h"
+	"lzio.h"
+
+1727289781 source:c:\users\dhiah\desktop\repos\fosgl\main.cpp
+	<iostream>
+	<TinyXml/tinyxml.h>
+	<string>
+	<stdio.h>
+	<io.h>
+	<Path/path.h>
+	<fstream>
+	<stdlib.h>
+	<Lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<stdio.h>
+	<algorithm>
+	<kaguya/kaguya.hpp>
+	<Helpers/Helpers.hpp>
+	<fosgl.hpp>
+	<map>
+	<vector>
+	<memory>
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1346453812 c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1520347966 c:\users\dhiah\desktop\repos\fosgl\path\path.h
+	<vector>
+	<string>
+
+1519294827 c:\users\dhiah\desktop\repos\fosgl\kaguya\kaguya.hpp
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/state.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+	"kaguya/ref_tuple.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\config.hpp
+	<string>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<functional>
+	<tuple>
+	<memory>
+	<utility>
+	<type_traits>
+	<initializer_list>
+	<array>
+	<boost/function.hpp>
+	<boost/tuple/tuple.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/make_shared.hpp>
+	<boost/type_traits.hpp>
+	<boost/static_assert.hpp>
+	<boost/utility/result_of.hpp>
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\lua_ref.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	<istream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\error_handler.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/type.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\type.hpp
+	<string>
+	<cstring>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/object.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/push_tuple.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\optional.hpp
+	<cassert>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\traits.hpp
+	<string>
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/optional.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\object.hpp
+	<string>
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/exception.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\utility.hpp
+	<iostream>
+	<cxxabi.h>
+	"kaguya/config.hpp"
+	"kaguya/compatibility.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/preprocess.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/utility_cxx11.hpp"
+	"kaguya/utility_cxx03.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\compatibility.hpp
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\preprocess.hpp
+	"kaguya/preprocess_repeate.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\preprocess_repeate.hpp
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\exception.hpp
+	<exception>
+	<stdexcept>
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\utility_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\utility_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\push_tuple.hpp
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\detail\lua_ref_impl.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\detail\lua_variant_def.hpp
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\detail\lua_function_def.hpp
+	<vector>
+	<map>
+	<cassert>
+	<algorithm>
+	<ostream>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\detail\lua_table_def.hpp
+	<vector>
+	<map>
+	<algorithm>
+	"kaguya/config.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\native_function.hpp
+	<string>
+	<vector>
+	<iterator>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/type.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/native_function_cxx11.hpp"
+	"kaguya/native_function_cxx03.hpp"
+	"kaguya/function_tuple_def.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\native_function_cxx11.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\native_function_cxx03.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/object.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\function_tuple_def.hpp
+	<string>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/preprocess.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\state.hpp
+	<string>
+	<iostream>
+	"kaguya/config.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/metatable.hpp"
+	"kaguya/error_handler.hpp"
+	"kaguya/lua_ref_table.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\metatable.hpp
+	<string>
+	<vector>
+	<map>
+	<typeinfo>
+	"kaguya/config.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/native_function.hpp"
+	"kaguya/lua_ref_function.hpp"
+
+1520238508 c:\users\dhiah\desktop\repos\fosgl\kaguya\push_any.hpp
+	<memory>
+	"kaguya/config.hpp"
+	"kaguya/traits.hpp"
+	"kaguya/utility.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\lua_ref_function.hpp
+	<vector>
+	<map>
+	<cassert>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/exception.hpp"
+	"kaguya/type.hpp"
+	"kaguya/utility.hpp"
+	"kaguya/detail/lua_function_def.hpp"
+	"kaguya/detail/lua_variant_def.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\lua_ref_table.hpp
+	<vector>
+	<map>
+	"kaguya/config.hpp"
+	"kaguya/lua_ref.hpp"
+	"kaguya/push_any.hpp"
+	"kaguya/detail/lua_ref_impl.hpp"
+	"kaguya/detail/lua_table_def.hpp"
+
+1507651942 c:\users\dhiah\desktop\repos\fosgl\kaguya\ref_tuple.hpp
+	"kaguya/config.hpp"
+
+1727289947 c:\users\dhiah\desktop\repos\fosgl\helpers\helpers.hpp
+	<string>
+	<iostream>
+	<sstream>
+
+1727289981 c:\users\dhiah\desktop\repos\fosgl\fosgl.hpp
+	<VariablesExpander.hpp>
+
+1520415635 c:\users\dhiah\desktop\repos\fosgl\variablesexpander.hpp
+	<Helpers/Helpers.hpp>
+
+1727288296 source:c:\users\dhiah\desktop\repos\fosgl\path\path.cpp
+	"path.h"
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<unistd.h>
+	<dirent.h>
+	<assert.h>
+	<fstream>
+	<stdexcept>
+	<Helpers/Helpers.hpp>
+	"path.h"
+	<filesystem>
+
+1346461012 source:c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1520238508 source:c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1520238508 source:c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1520238508 source:c:\users\dhiah\desktop\repos\fosgl\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+

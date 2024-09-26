@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="fosgl" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="fosgl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="/.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++1z" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="fosgl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="/.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add directory="../fosgl" />
+			<Add directory="../fosgl/liblua/" />
+		</Compiler>
+		<Linker>
+			<Add library="liblua/libLibLua.a" />
+		</Linker>
+		<Unit filename="Helpers/Helpers.hpp" />
+		<Unit filename="Path/path.cpp" />
+		<Unit filename="Path/path.h" />
+		<Unit filename="TinyXml/tinystr.cpp" />
+		<Unit filename="TinyXml/tinystr.h" />
+		<Unit filename="TinyXml/tinyxml.cpp" />
+		<Unit filename="TinyXml/tinyxml.h" />
+		<Unit filename="TinyXml/tinyxmlerror.cpp" />
+		<Unit filename="TinyXml/tinyxmlparser.cpp" />
+		<Unit filename="VariablesExpander.hpp" />
+		<Unit filename="fosgl.hpp" />
+		<Unit filename="kaguya/another_binding_api.hpp" />
+		<Unit filename="kaguya/compatibility.hpp" />
+		<Unit filename="kaguya/config.hpp" />
+		<Unit filename="kaguya/detail/lua_function_def.hpp" />
+		<Unit filename="kaguya/detail/lua_ref_impl.hpp" />
+		<Unit filename="kaguya/detail/lua_table_def.hpp" />
+		<Unit filename="kaguya/detail/lua_variant_def.hpp" />
+		<Unit filename="kaguya/error_handler.hpp" />
+		<Unit filename="kaguya/exception.hpp" />
+		<Unit filename="kaguya/function_tuple_def.hpp" />
+		<Unit filename="kaguya/kaguya.hpp" />
+		<Unit filename="kaguya/lua_ref.hpp" />
+		<Unit filename="kaguya/lua_ref_function.hpp" />
+		<Unit filename="kaguya/lua_ref_table.hpp" />
+		<Unit filename="kaguya/metatable.hpp" />
+		<Unit filename="kaguya/native_function.hpp" />
+		<Unit filename="kaguya/native_function_cxx03.hpp" />
+		<Unit filename="kaguya/native_function_cxx11.hpp" />
+		<Unit filename="kaguya/object.hpp" />
+		<Unit filename="kaguya/optional.hpp" />
+		<Unit filename="kaguya/preprocess.hpp" />
+		<Unit filename="kaguya/preprocess_repeate.hpp" />
+		<Unit filename="kaguya/push_any.hpp" />
+		<Unit filename="kaguya/push_tuple.hpp" />
+		<Unit filename="kaguya/ref_tuple.hpp" />
+		<Unit filename="kaguya/state.hpp" />
+		<Unit filename="kaguya/traits.hpp" />
+		<Unit filename="kaguya/type.hpp" />
+		<Unit filename="kaguya/utility.hpp" />
+		<Unit filename="kaguya/utility_cxx03.hpp" />
+		<Unit filename="kaguya/utility_cxx11.hpp" />
+		<Unit filename="liblua/lapi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lapi.h" />
+		<Unit filename="liblua/lauxlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lauxlib.h" />
+		<Unit filename="liblua/lbaselib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lbitlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lcode.h" />
+		<Unit filename="liblua/lcorolib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lctype.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lctype.h" />
+		<Unit filename="liblua/ldblib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ldebug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ldebug.h" />
+		<Unit filename="liblua/ldo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ldo.h" />
+		<Unit filename="liblua/ldump.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lfunc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lfunc.h" />
+		<Unit filename="liblua/lgc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lgc.h" />
+		<Unit filename="liblua/linit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/liolib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/llex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/llex.h" />
+		<Unit filename="liblua/llimits.h" />
+		<Unit filename="liblua/lmathlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lmem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lmem.h" />
+		<Unit filename="liblua/loadlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lobject.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lobject.h" />
+		<Unit filename="liblua/lopcodes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lopcodes.h" />
+		<Unit filename="liblua/loslib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lparser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lparser.h" />
+		<Unit filename="liblua/lprefix.h" />
+		<Unit filename="liblua/lstate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lstate.h" />
+		<Unit filename="liblua/lstring.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lstring.h" />
+		<Unit filename="liblua/lstrlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ltable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ltable.h" />
+		<Unit filename="liblua/ltablib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ltm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/ltm.h" />
+		<Unit filename="liblua/lua.h" />
+		<Unit filename="liblua/lua.hpp" />
+		<Unit filename="liblua/luaconf.h" />
+		<Unit filename="liblua/luafilesystem/lfs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/luafilesystem/lfs.h" />
+		<Unit filename="liblua/lualib.h" />
+		<Unit filename="liblua/lundump.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lundump.h" />
+		<Unit filename="liblua/lutf8lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lvm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lvm.h" />
+		<Unit filename="liblua/lzio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liblua/lzio.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
