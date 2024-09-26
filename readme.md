@@ -29,25 +29,13 @@ FOSGL (Folder Structure Generation Language) is a powerful XML-based scripting l
 
 ## Installation
 
-1. Clone the FOSGL repository:
-   ```
-   git clone https://github.com/yourusername/fosgl.git
-   ```
+ 1. Clone or download the repository.
 
-2. Navigate to the FOSGL directory:
-   ```
-   cd fosgl
-   ```
+ 2. Install Code::Blocks
 
-3. Build the project:
-   ```
-   make
-   ```
+ 3. Open the project in Code::Blocks and build the executable.
 
-4. Install the FOSGL executable:
-   ```
-   sudo make install
-   ```
+ Alternately, you can download repo and build it your your way because the project doesnt have any dependencies.
 
 ## Usage
 
